@@ -2,7 +2,7 @@
 
 Site institucional estático da G&G Soluções, apresentando serviços, projetos entregues e canais de contato.
 
-🔗 **Site no ar:** https://friendly-cocada-dd65d0.netlify.app
+🔗 **Site no ar:**(https://portfoliogegsolucoes.netlify.app/)
 
 ## Estrutura
 
