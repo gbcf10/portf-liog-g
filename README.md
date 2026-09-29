@@ -18,7 +18,7 @@ project-logos/       Logos dos projetos exibidos na seção "Projetos"
 
 - **Serviços**: sites institucionais, sistemas web, apps mobile, automações, integrações, IA, suporte.
 - **Sobre**: apresentação da empresa.
-- **Projetos**: cases entregues (WL Multimarcas, RB Apoio Marítimos, AsfaltoVille, Francês Afro).
+- **Projetos**: cases entregues (WL Multimarcas, RB Apoio Marítimos, AsfaltoVille, Francês Afro, Francês Afro App, Amanda Alcântara Cerimonial).
 - **Proposta personalizada**: convite para o cliente descrever um projeto fora do catálogo.
 - **Contato**: redireciona para WhatsApp com mensagem automática.
 
