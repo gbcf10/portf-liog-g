@@ -915,6 +915,7 @@ footer {
 }
 
 .social-link {
+  margin-inline: 0.25rem;
   display: inline-flex;
   align-items: center;
   gap: 0.5rem;
